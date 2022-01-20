@@ -3,7 +3,6 @@
 ## I'm a Filipino Web Developer!!
 
 - 🔭 I’m currently working as Reactjs Developer
-- 🌱 I’m currently learning **More about APIs. At work I am diving more into ASP.Net Core and the backend fun**
 - 💬 Ask me about **React, React Stuff, Web Development, or really anything.**
 - 📫 How to reach me: [My Instagram](https://www.instagram.com/rechielagria/) 
 
