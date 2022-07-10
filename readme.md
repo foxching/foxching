@@ -1,6 +1,6 @@
 ### Hi there, I'm Ching -  👋
 
-## I'm a Filipino Web Developer!!
+## I'm a Filipino Sofware Developer!!
 
 - 🔭 I’m currently working as Reactjs Developer
 - 💬 Ask me about **React, React Stuff, Web Development, or really anything.**
