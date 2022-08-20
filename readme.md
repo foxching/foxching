@@ -3,7 +3,7 @@
 ## I'm a Filipino Sofware Developer!!
 
 - 🔭 I’m currently working as Frontend Developer
-- 💬 Ask me about **React, React Stuff, Web Development, or really anything.**
+- 💬 Ask me about **React, Angular, Frontend Stuff, Web Development, or really anything.**
 - 📫 How to reach me: [My Instagram](https://www.instagram.com/rechielagria/) 
 
 <h3 align="left">Languages and Tools I am familiar with/use:</h3>
