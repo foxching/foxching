@@ -14,13 +14,15 @@
 <a href="https://https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" max-width="75" height="75"/> </a>
 <a href="https://angular.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" max-width="75" height="75"/> </a>
 <a href="https://https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" max-width="75" height="75"/> </a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" max-width="75" height="75"/> </a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" alt="dotnet" max-width="75" height="75"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="postgresql" max-width="75" height="75"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb" max-width="100" height="100"/> </a>
  <a href="https://www.postman.com/" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/master/logos/postman.svg" alt="Postman" max-width="75" height="75"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="got" max-width="75" height="75"/> </a>
  <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" alt="Netlify" max-width="75" height="75"/> </a
  <a href="https://visualstudio/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vs code" max-width="75" height="75"/> </a>
-    <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" alt="dotnet" max-width="75" height="75"/> </a>
+ 
 </p>
 
 
