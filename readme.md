@@ -3,7 +3,7 @@
 ## I'm a Filipino Sofware Developer!!
 
 - 🔭 I’m currently working as Frontend Developer
-- 💬 Ask me about **React, Angular, Frontend Stuff, Web Development, or really anything.**
+- 💬 Ask me about **React, Angular, Vue, Svelkit other Frontend Stuff, Web Development, or really anything.**
 - 📫 How to reach me: [My Instagram](https://www.instagram.com/rechielagria/) 
 
 <h3 align="left">Languages and Tools I am familiar with/use:</h3>
@@ -20,7 +20,7 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="postgresql" max-width="75" height="75"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="postgresql" max-width="75" height="75"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb" max-width="100" height="100"/> </a>
- <a href="https://www.postman.com/" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/master/logos/postman.svg" alt="Postman" max-width="75" height="75"/> </a>
+ <a href="https://www.postman.com/" target="_blank"> <img src="https://camo.githubusercontent.com/cfe0dd83317c9b523c7f3d8911ee61eb1e2fc869a64a8b6ae075c2fd6e5b17cd/68747470733a2f2f6173736574732e676574706f73746d616e2e636f6d2f636f6d6d6f6e2d73686172652f706f73746d616e2d6c6f676f2d686f72697a6f6e74616c2d333230783133322e706e67" alt="Postman" max-width="75" height="75"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="got" max-width="75" height="75"/> </a>
  <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" alt="Netlify" max-width="75" height="75"/> </a
  <a href="https://visualstudio/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vs code" max-width="75" height="75"/> </a>
