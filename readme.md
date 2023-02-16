@@ -3,7 +3,7 @@
 ## I'm a Filipino Sofware Engineer!!
 
 - 🔭 I’m currently working as Frontend Developer
-- 💬 Ask me about **React, Angular, Vue, Svelte or other Frontend Stuff and Web Development stuff**
+- 💬 Ask me about **React, Angular, Vue, Svelte or other Frontend and Web Development related stuff**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rechie-lagria-b2499310/) 
 
 <h3 align="left">Languages and Tools I am familiar with/use:</h3>
@@ -26,6 +26,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="got" max-width="75" height="75"/> </a>
 <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" alt="Netlify" max-width="75" height="75"/> </a
 <a href="https://visualstudio/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vs code" max-width="75" height="75"/> </a>
+<a href="https://azure.microsoft.com/en-us/products/devops" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png" alt="vs code" max-width="75" height="75"/> </a>
 </p>
 
 
