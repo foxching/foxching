@@ -9,7 +9,7 @@
 <h3 align="left">Languages and Tools I am familiar with/use:</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" max-width="75" height="75"/></a>
-<a href="https://developer.mozilla.org/en-US/" target="_blank">  <img src="https://github.com/detain/svg-logos/blob/master/svg/css3.svg" alt="css" max-width="75" height="75"/></a>
+<a href="https://developer.mozilla.org/en-US/" target="_blank">  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" max-width="75" height="75"/></a>
 <a href="https://developer.mozilla.org/en-US/" target="_blank">  <img src="https://ultimatecourses.com/assets/category/javascript-58bb09245e2abeaf56f7db48e86fa4454c2f316a4c6c71aadaa2bdf3b206ab95.svg" alt="javascript" max-width="75" height="75"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" max-width="75" height="75"/></a>  
 <a href="https://https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" max-width="75" height="75"/> </a>
