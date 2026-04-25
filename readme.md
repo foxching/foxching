@@ -2,8 +2,8 @@
 
 ## I'm a Filipino Sofware Engineer!!
 
-- 🔭 I’m currently working as Frontend Developer
-- 💬 Ask me about **React, Angular, Vue, Svelte or other Frontend and Web Development related stuff**
+- 🔭 I’m currently working as FullStack Software Engineer
+- 💬 Ask me about **React, Angular,NodeJs, C# or other Frontend and Web Development related stuff**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rechie-lagria-b2499310/) 
 
 <h3 align="left">Languages and Tools I am familiar with/use:</h3>
